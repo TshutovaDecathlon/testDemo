@@ -4,7 +4,7 @@ This tutorial shows you how to package an application in a Docker container imag
 
 # Before you begin
 
--	Install Docker and return to this tutorial. For more information, see [Docker](https://docs.docker.com/get-docker/) docs.
+-	Install Docker and return to this tutorial. Docker installation varies depending on the OS you plan to use. For more information, see [Docker](https://docs.docker.com/get-docker/) docs.
 
 For this tutorial, you will use the sample code for the application, called ExampleApp, a server written in [Python](https://www.python.org/) that responds to all requests with the message: serving at port 8000.
 
