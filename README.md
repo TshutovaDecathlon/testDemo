@@ -2,7 +2,7 @@
 
 This tutorial shows you how to package an application in a Docker container image before you run that container image on a Kubernetes cluster.
 
-## Before you begin
+# Before you begin
 
 -	Install Docker and return to this tutorial. For more information, see [Docker](https://docs.docker.com/get-docker/) docs.
 
